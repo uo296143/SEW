@@ -1,1 +1,19 @@
 /*Juan Fernandez Lopez UO296143*/
+/* Todas las reglas en estilo.css deben tener como un comentario la especificidad del selector */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color:#123333;
+    background-color: #453333;
+}
+
+header{
+
+}
+
+h1{
+
+}
+nav{
+
+}
