@@ -1,18 +1,27 @@
 /*Juan Fernandez Lopez UO296143*/
 /* Todas las reglas en estilo.css deben tener como un comentario la especificidad del selector */
-
+/*
+ Navy blue (modificado) #0E5D6C
+ Blue grotto (modificado) #0B5665
+ Blue green #75e6da
+ Baby blue #d4f1f4
+*/
 body {
     font-family: 'Arial', sans-serif;
-    color:#d77628;
+    
 }
 
 header{
-    color:#d77628;
+    color:#673913;
 }
 
 h1{
     color:#2889d7;
 }
 nav{
-    color:#d77628;
+    background-color:#673913;
+}
+
+a{
+    color: #ffffff;
 }
